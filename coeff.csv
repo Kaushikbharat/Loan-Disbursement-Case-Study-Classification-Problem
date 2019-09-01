@@ -1,0 +1,13 @@
+"","x"
+"(Intercept)",-7.99298311145294
+"Monthly_Income",-1.965063163339
+"Loan_Amount_Applied",-0.0884178411966321
+"Loan_Tenure_Applied",0.212520835784187
+"Existing_EMI",0.822387173110649
+"Loan_Amount_Submitted",0.236480041385441
+"Loan_Tenure_Submitted",-0.132235265325466
+"LoggedIn",1.34819337934994
+"Gender",0.103910973889441
+"Filled_Form",-0.383629281569008
+"Mobile_Verified",0.140014882973445
+"Device_Type",-0.123920109717682
