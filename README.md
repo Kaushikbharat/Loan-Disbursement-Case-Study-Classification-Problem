@@ -11,7 +11,7 @@ target these customers, here they have provided a partial data set for salaried
 customers only from the last 3 months. They also capture basic details about
 customers like gender, DOB, existing EMI, employer Name, Loan Amount
 Required, Monthly Income, City, Interaction data and many others. Let’s look
-at the process at ABC Customer Bank.
+at the process at XYZ Customer Bank.
 In above process, customer applications can drop majorly at two stages, at
 login and approval/ rejection by bank. Here we need to identify the segment of
 customers having higher disbursal rate in next 30 days.
